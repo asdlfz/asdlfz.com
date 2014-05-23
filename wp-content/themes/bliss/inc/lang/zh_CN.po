@@ -1,0 +1,1456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TianYi\n"
+"POT-Creation-Date: 2013-09-05 00:36+0800\n"
+"PO-Revision-Date: 2013-09-05 00:40+0800\n"
+"Last-Translator: 天屹 <cgtianyi@163.com>\n"
+"Language-Team: TianYi <cgtianyi@163.com>\n"
+"Language: Chinese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_;gettext;gettext_noop;_e;esc_attr_e;_n\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes\\bliss\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5 single.php:130
+msgid "Page not found"
+msgstr "404 : 页面未找到"
+
+#: 404.php:6
+msgid "We could not find the page you were looking for."
+msgstr "找不您正在请求的页面。"
+
+#: 404.php:8 index.php:114 page-left-sidebar.php:68 page-single-column.php:64
+#: page.php:78
+msgid "Try searching"
+msgstr "尝试搜索"
+
+#: comments.php:18
+#, php-format
+msgid "%d comment"
+msgstr "%d条评论"
+
+#: comments.php:31
+msgid "Older Comments"
+msgstr "较早评论"
+
+#: comments.php:32
+msgid "Newer Comments"
+msgstr "新评论"
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: functions.php:107 inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr "安装必要的插件"
+
+#: functions.php:108 inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: functions.php:109 inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "正在安装插件: %s"
+
+#: functions.php:110
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出现了某些错误。"
+
+#: functions.php:121 inc/class-tgm-plugin-activation.php:178
+#: inc/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr "返回到必要的的插件安装页面"
+
+#: functions.php:122 inc/class-tgm-plugin-activation.php:179
+#: inc/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr "插件启用成功"
+
+#: functions.php:123
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "所有插件安装并启用成功 %s"
+
+#: functions.php:287
+msgid "Previous Page"
+msgstr "上一页"
+
+#: functions.php:301
+msgid "Next Page"
+msgstr "下一页"
+
+#: functions.php:380
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:380 functions.php:406
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: functions.php:390
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: functions.php:393
+msgid "Author"
+msgstr "作者"
+
+#: functions.php:397
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: functions.php:439 inc/post-format/content-audio.php:56
+#: inc/post-format/content-gallery.php:41 inc/post-format/content-image.php:46
+#: inc/post-format/content-link.php:46 inc/post-format/content-video.php:41
+#: inc/post-format/content.php:47 inc/post-format/single-audio.php:49
+#: inc/post-format/single-image.php:34 inc/post-format/single-video.php:40
+msgid "Continue reading..."
+msgstr "继续阅读..."
+
+#: index.php:110 page-left-sidebar.php:65 page-single-column.php:61
+#: page.php:75
+msgid "Post not found"
+msgstr "文章未找到"
+
+#: index.php:112 page-left-sidebar.php:66 page-single-column.php:62
+#: page.php:76
+msgid "We could not find that post you were looking for."
+msgstr "我们无法找到你要找的文章。"
+
+#: options.php:32
+msgid "Image"
+msgstr "图片"
+
+#: options.php:33
+msgid "Pattern"
+msgstr "图案"
+
+#: options.php:34
+msgid "Solid Color"
+msgstr "纯色"
+
+#: options.php:45 inc/theme-options/options-framework.php:172
+#: inc/theme-options/options-framework.php:387
+msgid "Theme Options"
+msgstr "Bliss主题选项"
+
+#: options.php:49
+msgid "Background"
+msgstr "背景"
+
+#: options.php:50
+msgid "What kind of background do you want?"
+msgstr "您想使用那种类型的背景？"
+
+#: options.php:57
+msgid "Background Image"
+msgstr "背景图片"
+
+#: options.php:58
+msgid "Upload your background image here."
+msgstr "在这里上传您喜欢的背景图像。"
+
+#: options.php:65
+msgid "Show stripe overlay"
+msgstr "显示覆盖条纹"
+
+#: options.php:66
+msgid ""
+"Uncheck this to remove the stripe overlay that covers the background image"
+msgstr "取消选中以移除背景图片上的覆盖条纹"
+
+#: options.php:96
+msgid "Upload Pattern"
+msgstr "上传图案"
+
+#: options.php:97
+msgid ""
+"Upload a new pattern here. If this feature is used it will overwrite the "
+"selection above."
+msgstr "在这里上传新的图案。如果使用此功能，它将覆盖上面的选择。"
+
+#: options.php:103
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: options.php:104
+msgid ""
+"Select the background color ( Only works if the custom color option is "
+"chosen )"
+msgstr "选择背景颜色( 只有选择自定义背景颜色是才起作用 )"
+
+#: options.php:112
+msgid "Facebook App Id"
+msgstr "Facebook App Id"
+
+#: options.php:113
+msgid ""
+"Insert you Facebook app id here. If you don't have one for your webpage you "
+"can create it <a target=\"_blank\" href=\"https://developers.facebook.com/"
+"apps\">here</a>"
+msgstr ""
+"将您的Facebook app id填写在下面. 如果您还没有，可以在 <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/apps\">这里</a>创建一个您自己的ID。"
+
+#: options.php:118
+msgid "Enable Facebook comments for posts"
+msgstr "为文章引入Facebook评论"
+
+#: options.php:119
+msgid ""
+"Check this to use Facebook comments instead of regular wordpress comments "
+"for posts. Requires a Facebook app id in the field above."
+msgstr ""
+"选中，使用Facebook评论代替默认的wordpress评论，需要在上面填写您的Facebook "
+"app id"
+
+#: options.php:125
+msgid "Disable Responsive CSS"
+msgstr "取消响应式支持"
+
+#: options.php:126
+msgid ""
+"Check this to disable responsive css. Responsive css enable the webpage to "
+"adapt to every screen size allowing mobile users to browse the website more "
+"easily."
+msgstr ""
+"选中取消响应式支持. 响应式支持可以使用户在手机或者pad上更好的访问您的网站"
+
+#: options.php:132
+msgid "Layout"
+msgstr "博客整体布局"
+
+#: options.php:133
+msgid ""
+"Select the layout you want, left sidebar, right sidebar or no sidebar. "
+"Default: Right sidebar"
+msgstr ""
+"选择您喜欢的整体布局，显示左边栏，右边栏或者不显示任何边栏。默认：显示右边栏"
+
+#: options.php:145
+msgid "Blog Layout"
+msgstr "博客内容布局"
+
+#: options.php:146
+msgid "Select the default blog layout."
+msgstr "选择默认博客布局，布局应用于首页显示文章内容的部分。"
+
+#: options.php:156
+msgid "Right-to-Left Language"
+msgstr "文字从右向左阅读"
+
+#: options.php:157
+msgid "Check this if your language is written in a Right-to-Left direction"
+msgstr "选中此项，如果您的文字是从右向左阅读的"
+
+#: options.php:163
+msgid "Footer text"
+msgstr "站点底部文字"
+
+#: options.php:164
+msgid "{year} will be replaced with the current year"
+msgstr "{year} 将被替换为今年"
+
+#: options.php:170
+msgid "Google Analytics"
+msgstr "Google分析"
+
+#: options.php:171
+msgid ""
+"Add your Google Analytics tracking code here. Google Analytics is a free web "
+"analytics service more info here: <a href=\"http://www.google.com/analytics/"
+"\">Google Analytics</a>"
+msgstr ""
+"添加您的Google分析追踪代码e. Google Analytics 是一个免费的web页面访问追踪统计"
+"的工具: <a href=\"http://www.google.com/analytics/\">Google分析</a>"
+
+#: options.php:177
+msgid "SEO plugin support"
+msgstr "SEO插件支持"
+
+#: options.php:178
+msgid ""
+"Check this to give an SEO plugin control of meta description, title and open "
+"graph tags."
+msgstr "选中此项，使SEO插件可以控制页面的meta描述，标题和标签."
+
+#: options.php:185
+msgid "Header & Menu"
+msgstr "顶部 & 菜单"
+
+#: options.php:189
+msgid "Logo"
+msgstr "Logo"
+
+#: options.php:190
+msgid ""
+"Upload your logo here. Remove the image to show the name of the website in "
+"text instead. (Recommended: 45x45)"
+msgstr "在这里上传您的Logo，移除图片将显示站点标题。(推荐尺寸: 45x45)"
+
+#: options.php:195
+msgid "Mini Logo"
+msgstr "迷你Logo"
+
+#: options.php:196
+msgid ""
+"Upload your mini logo here. Logo that appears in the header when the user "
+"scrolls down on your website."
+msgstr ""
+"上传您的迷你Logo. 当用户向下滚动网页的时候，迷你Logo将显示在顶部菜单的左边。"
+
+#: options.php:201
+msgid "Enable menu hover"
+msgstr "文章页显示作者信息框"
+
+#: options.php:202
+msgid "Check this to show the menus sub-items when hovered over the top item."
+msgstr "选中启用，当鼠标hover到菜单上的时候显示子菜单"
+
+#: options.php:208
+msgid "Disable header description"
+msgstr "隐藏顶部站点描述"
+
+#: options.php:209
+msgid "Check this to disable the description showing up in the header."
+msgstr "取消选择，不在顶部显示搜索框"
+
+#: options.php:215
+msgid "Disable Sticky Header"
+msgstr "禁用菜单黏贴顶部"
+
+#: options.php:216
+msgid ""
+"Check this to disable the sticky header feature. (The header won't stay "
+"fixed at the top of the window when you scroll down)"
+msgstr ""
+"选中此项，禁用菜单黏贴在顶部. (当用户向下滚动页面时，顶部菜单将不会黏贴在页面"
+"的顶部)"
+
+#: options.php:222
+msgid "Show search in header"
+msgstr "顶部显示搜索框"
+
+#: options.php:223
+msgid "Uncheck this to remove the search input from the header"
+msgstr "取消选择，不在顶部显示搜索框"
+
+#: options.php:229
+msgid "Posts & Pages"
+msgstr "文章 & 页面"
+
+#: options.php:241
+msgid "Enable page comments"
+msgstr "启用页面评论功能"
+
+#: options.php:242
+msgid "Check this to enable comments on all pages as well as posts."
+msgstr "选中此项，在所有页面启用评论功能"
+
+#: options.php:248
+msgid "Disable share buttons at the bottom of posts"
+msgstr "禁用在文章结尾显示分享按钮"
+
+#: options.php:249
+msgid "Check this to remove the \"Share\" button in the post footer."
+msgstr "选中此项，移除文章结尾的分享按钮"
+
+#: options.php:255
+msgid "Show share buttons on:"
+msgstr "显示分享按钮："
+
+#: options.php:256
+msgid "Where do you want the share buttons to appear?"
+msgstr "您希望广告出现在哪里？"
+
+#: options.php:266 options.php:828
+msgid "Pages"
+msgstr "页面"
+
+#: options.php:267 options.php:829 inc/widgets/bl_tabs.php:139
+msgid "Posts"
+msgstr "文章"
+
+#: options.php:268
+msgid "Front page"
+msgstr "首页"
+
+#: options.php:271
+msgid "Disable the tags for posts"
+msgstr "禁用在文章末尾显示标签"
+
+#: options.php:272
+msgid "Check this to remove the post tags on all posts"
+msgstr "选中此项，禁用在文章页显示标签"
+
+#: options.php:278
+msgid "Disable next/previous buttons"
+msgstr "禁用在文章末尾显示上一个/下一个导航"
+
+#: options.php:279
+msgid ""
+"Check this to remove the Next/Previous buttons at the bottom of each post."
+msgstr "选中禁用"
+
+#: options.php:285
+msgid "Disable Related Posts"
+msgstr "禁用在文章末尾显示相关文章"
+
+#: options.php:286
+msgid ""
+"Related articles are show below each post when you view it. Check this to "
+"disable that feature."
+msgstr "选中禁用"
+
+#: options.php:292
+msgid "Enable author box"
+msgstr "文章页显示作者信息框"
+
+#: options.php:293
+msgid "Uncheck this to remove the author box below each post."
+msgstr "取消选择，在文章页移除作者信息"
+
+#: options.php:299
+msgid "Author Box Image"
+msgstr "作者信息框图片"
+
+#: options.php:300
+msgid "Upload a cover for the author box"
+msgstr "上传图片作文作者信息框封面"
+
+#: options.php:306
+msgid "Enable posts excerpt (post summary)"
+msgstr "启用文章摘要"
+
+#: options.php:307
+msgid ""
+"Check this to only show the post excerpt or the summary of a post in the "
+"browse page. The default behavior is to show the whole post but you can "
+"provide a cut-off point by adding the <a href=\"http://codex.wordpress.org/"
+"Customizing_the_Read_More\" target=\"_blank\">More</a> tag."
+msgstr "选中此项，只显示文章摘要。 默认显示整篇文章"
+
+#: options.php:313
+msgid "Exerpt Length"
+msgstr "摘要长度"
+
+#: options.php:314
+msgid ""
+"How many words would you like to show in the post summary. Default: 55 words"
+msgstr "摘要文字长度"
+
+#: options.php:321
+msgid "Show Continue Reading link"
+msgstr "显示继续阅读链接"
+
+#: options.php:322
+msgid ""
+"Uncheck this to hide the Continue Reading link that appears below the post "
+"conent."
+msgstr "取消选择，移除继续阅读链接"
+
+#: options.php:328
+msgid "Open featured post images in lightbox"
+msgstr "启用文章中点击图片以lightbox方式显示图片"
+
+#: options.php:329
+msgid ""
+"Check this to open featured post images in a lightbox instead of linking to "
+"the post itself."
+msgstr "选中启用"
+
+#: options.php:361
+msgid "Standard Post Icon"
+msgstr "标准文章图标"
+
+#: options.php:362
+msgid "Select an icon for the standard post type. (Default: icon-calendar-3)"
+msgstr " 默认: icon-calendar-3"
+
+#: options.php:369
+msgid "Standard Post Color"
+msgstr "标准文章颜色"
+
+#: options.php:370
+msgid "Select the color for the standard post icon and links"
+msgstr "选择图标和链接颜色"
+
+#: options.php:377
+msgid "Gallery Post Icon"
+msgstr "图库文章图标"
+
+#: options.php:378
+msgid "Select an icon for the gallery post type. (Default: icon-picture)"
+msgstr "默认: icon-picture"
+
+#: options.php:385
+msgid "Gallery Post Color"
+msgstr "图库文章颜色"
+
+#: options.php:386
+msgid "Select the color for the gallery post icon and links"
+msgstr "选择图标和链接颜色"
+
+#: options.php:393
+msgid "Image Post Icon"
+msgstr "图片文章图标"
+
+#: options.php:394
+msgid "Select an icon for the image post type. (Default: icon-picture-1)"
+msgstr "默认: icon-picture-1"
+
+#: options.php:401
+msgid "Image Post Color"
+msgstr "图片文章颜色"
+
+#: options.php:402
+msgid "Select the color for the image post icon and links"
+msgstr "选择图标和链接颜色"
+
+#: options.php:409
+msgid "Link Post Icon"
+msgstr "链接文章图标"
+
+#: options.php:410
+msgid "Select an icon for the link post type. (Default: icon-link)"
+msgstr "默认: icon-link"
+
+#: options.php:417
+msgid "Link Post Color"
+msgstr "链接文章颜色"
+
+#: options.php:418
+msgid "Select the color for the link post icon and links"
+msgstr "选择图标和链接颜色"
+
+#: options.php:425
+msgid "Quote Post Icon"
+msgstr "引用类型文章图片"
+
+#: options.php:426
+msgid "Select an icon for the quote post type. (Default: icon-quote-left)"
+msgstr "默认: icon-quote-left"
+
+#: options.php:433
+msgid "Quote Post Color"
+msgstr "引用类型文章颜色"
+
+#: options.php:434
+msgid "Select the color for the quote post icon and links"
+msgstr "选择图标和链接颜色"
+
+#: options.php:441
+msgid "Audio Post Icon"
+msgstr "音频类型文章图标"
+
+#: options.php:442
+msgid "Select an icon for the audio post type. (Default: icon-volume-up)"
+msgstr "默认: icon-volume-up"
+
+#: options.php:449
+msgid "Audio Post Color"
+msgstr "音频类型文章颜色"
+
+#: options.php:450
+msgid "Select the color for the audio post icon and links"
+msgstr "选择图标和链接颜色"
+
+#: options.php:457
+msgid "Video Post Icon"
+msgstr "视频类型文章图标"
+
+#: options.php:458
+msgid "Select an icon for the video post type. (Default: icon-videocam)"
+msgstr "默认: icon-videocam"
+
+#: options.php:465
+msgid "Video Post Color"
+msgstr "视频类型文章颜色"
+
+#: options.php:466
+msgid "Select the color for the video post icon and links"
+msgstr "选择图标和链接颜色"
+
+#: options.php:473
+msgid "Status Post Icon"
+msgstr "状态类型文章图标"
+
+#: options.php:474
+msgid "Select an icon for the status post type. (Default: icon-book-1)"
+msgstr "默认: icon-book-1"
+
+#: options.php:481
+msgid "Status Post Color"
+msgstr "状态类型文章颜色"
+
+#: options.php:482
+msgid "Select the color for the status post icon and links"
+msgstr "选择图标和链接颜色"
+
+#: options.php:489
+msgid "Sticky Post Icon"
+msgstr "黏贴固定类型文章图标"
+
+#: options.php:490
+msgid "Select an icon for sticky posts. (Default: icon-pin)"
+msgstr "默认: icon-pin"
+
+#: options.php:497
+msgid "Sticky Post Color"
+msgstr "黏贴文章颜色"
+
+#: options.php:498
+msgid "Select the color for the sticky post icon and links"
+msgstr "选择黏贴的文章图片和链接的颜色"
+
+#: options.php:508
+msgid "Colors & Fonts"
+msgstr "颜色 & 字体"
+
+#: options.php:513
+msgid "Color Theme"
+msgstr "颜色主题"
+
+#: options.php:514
+msgid "Choose a predefined color theme"
+msgstr "选择一个颜色主题"
+
+#: options.php:526
+msgid "Custom Color Theme"
+msgstr "自定义颜色主题"
+
+#: options.php:527
+msgid "Check this to make your own color theme"
+msgstr "选中定义您自己的颜色主题"
+
+#: options.php:533
+msgid "Main Theme Color"
+msgstr "主题主颜色"
+
+#: options.php:534
+msgid "Select the theme's main color"
+msgstr "选择主题主颜色"
+
+#: options.php:541
+msgid "Top Banner Color"
+msgstr "顶部广告颜色"
+
+#: options.php:542 options.php:550
+msgid "Select the color for the top header that includes the logo"
+msgstr "选择包含Logo的顶部标题颜色"
+
+#: options.php:549
+msgid "Top Banner Font Color"
+msgstr "顶部广告字体颜色"
+
+#: options.php:557
+msgid "Top Banner Social Buttons"
+msgstr "顶部社会化按钮"
+
+#: options.php:558
+msgid "Select the color for the social buttons in the top banner"
+msgstr "选择顶部社会化按钮颜色"
+
+#: options.php:565
+msgid "Top Header Color"
+msgstr "顶部标题颜色"
+
+#: options.php:566
+msgid "Select the color for the top header that includes the menu"
+msgstr "选择包含菜单的顶部标题颜色"
+
+#: options.php:573
+msgid "Top Header Font Color"
+msgstr "顶部菜单字体颜色"
+
+#: options.php:574
+msgid "Select the color for the top header menu links"
+msgstr "选择顶部菜单字体颜色"
+
+#: options.php:581
+msgid "Post Header Color"
+msgstr "文章标题颜色"
+
+#: options.php:582
+msgid "Select the color for the top header of each post"
+msgstr "选择每篇文章标题颜色"
+
+#: options.php:589
+msgid "Widget Header Color"
+msgstr "小工具标题背景颜色"
+
+#: options.php:590
+msgid "Select the default color for the top header of each widget"
+msgstr "选择每一个小工具标题默认背景颜色"
+
+#: options.php:597
+msgid "Widget Header Font Color"
+msgstr "小工具标题字体颜色"
+
+#: options.php:598
+msgid "Select the color for the heading font in each widget"
+msgstr "选择每一个小工具标题的字体颜色"
+
+#: options.php:605
+msgid "Footer Color"
+msgstr "站点底部背景颜色"
+
+#: options.php:606
+msgid "Select the default color for the footer"
+msgstr "选择默认站点底部背景颜色"
+
+#: options.php:613
+msgid "Footer Header Color"
+msgstr "站点底部标题字体颜色"
+
+#: options.php:614
+msgid "Select the default color for the footer headers"
+msgstr "选择默认站点底部标题字体颜色"
+
+#: options.php:621
+msgid "Footer Font Color"
+msgstr "站点底部字体颜色"
+
+#: options.php:622
+msgid "Select the default color for the footer font"
+msgstr "选择默认站点底部字体颜色"
+
+#: options.php:631
+msgid "Heading font"
+msgstr "标题字体"
+
+#: options.php:632
+msgid "Select a font type for all heading"
+msgstr "选择所有标题的字体类型"
+
+#: options.php:638
+msgid "Main font"
+msgstr "主要字体"
+
+#: options.php:639
+msgid "Select a font type for normal text"
+msgstr "选择正常的文本的字体类型"
+
+#: options.php:645
+msgid "Menu links font"
+msgstr "菜单字体"
+
+#: options.php:646
+msgid "Select a font type for the menu items in the header"
+msgstr "选择顶部菜单字体"
+
+#: options.php:652
+msgid "Brand font"
+msgstr "站点标题字体"
+
+#: options.php:653
+msgid ""
+"Select a font type for the brand. If you use text instead of a logo in your "
+"header this setting changes the font family for that text."
+msgstr "请选择字体类型，如果您使用文字显示站点标题。"
+
+#: options.php:663
+msgid "Advertising"
+msgstr "广告支持"
+
+#: options.php:669
+msgid "Ad spot #1 - Above the header."
+msgstr "广告点 #1 - 网站顶部."
+
+#: options.php:670
+msgid ""
+"Select what kind of ad you want added above the top menu. <a target=\"_blank"
+"\" href=\"http://bluth.is/wordpress/bliss/wp-content/uploads/2013/08/"
+"adspace_top.jpg\">See Example</a>"
+msgstr "请选择您需要在顶部菜单之上添加什么类型的广告. "
+
+#: options.php:675 options.php:711 options.php:771
+msgid "None"
+msgstr "无"
+
+#: options.php:676 options.php:712 options.php:772
+msgid "Shortcode or HTML code like Adsense"
+msgstr "短代码或者HTML代码，例如谷歌Adsense"
+
+#: options.php:677 options.php:713 options.php:773
+msgid "Image with a link"
+msgstr "图片链接"
+
+#: options.php:681 options.php:717 options.php:777
+msgid "Add Shortcode or HTML code here"
+msgstr "在这里添加短代码或者HTML代码"
+
+#: options.php:682 options.php:718 options.php:778
+msgid ""
+"Insert a shortcode provided by this theme or any plugin. You can also add "
+"advertising code from any provider or use plain html. To add Adsense just "
+"paste the embed code here that they provide and save."
+msgstr "添加你的广告代码"
+
+#: options.php:689 options.php:725 options.php:785
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: options.php:690 options.php:786
+msgid ""
+"Upload an image to add above the header menu and add a link for it in the "
+"input box below"
+msgstr ""
+"上传一张广告图片到顶部菜单上面，并在下面的输入框添加点击图片跳转的目标URL"
+
+#: options.php:696 options.php:732 options.php:792
+msgid "Image link"
+msgstr "广告图片链接"
+
+#: options.php:697 options.php:733 options.php:793
+msgid "Add a link to the image"
+msgstr "为图片添加跳转目标URL"
+
+#: options.php:705
+msgid "Ad spot #2 - Between posts"
+msgstr "广告点 #2 - 文章之间"
+
+#: options.php:706
+msgid ""
+"Here you can add advertising between posts. <a target=\"_blank\" href="
+"\"http://bluth.is/wordpress/bliss/wp-content/uploads/2013/08/adspace_between."
+"jpg\">See Example</a>"
+msgstr "在文章之间添加广告。"
+
+#: options.php:726
+msgid ""
+"Upload an image to add between posts and add a link for it in the input box "
+"below"
+msgstr "上传一张广告图片到文章之间，并在下面的输入框添加点击图片跳转的目标URL"
+
+#: options.php:740
+msgid "Display Frequency"
+msgstr "显示频率"
+
+#: options.php:741
+msgid "How often do you want the ad to appear?"
+msgstr "您想要广告以什么频率出现"
+
+#: options.php:747
+msgid "Between every post"
+msgstr "每篇文章"
+
+#: options.php:748
+msgid "Every 2th posts"
+msgstr "每两篇文章"
+
+#: options.php:749
+msgid "Every 3th post"
+msgstr "每三篇文章"
+
+#: options.php:750
+msgid "Every 4th post"
+msgstr "每四篇文章"
+
+#: options.php:751
+msgid "Every 5th post"
+msgstr "每五篇文章"
+
+#: options.php:755 options.php:800
+msgid "Add white background"
+msgstr "添加白色背景"
+
+#: options.php:756 options.php:801
+msgid "Check this to wrap the ad content in a white box"
+msgstr "选中把广告内容包含在白色的边框里面"
+
+#: options.php:765
+msgid "Ad spot #3 - Above the content."
+msgstr "广告点 #3 - 主内容上面"
+
+#: options.php:766
+msgid ""
+"Select what kind of ad you want added above the main container. <a target="
+"\"_blank\" href=\"http://bluth.is/wordpress/bliss/wp-content/uploads/2013/08/"
+"adspace_above_content.jpg\">See Example</a>"
+msgstr "请选择您需要主容器上添加什么类型的广告."
+
+#: options.php:808
+msgid "Add padding"
+msgstr "添加内边距"
+
+#: options.php:809
+msgid "Add padding to the banner container"
+msgstr "为广告容器添加内边距"
+
+#: options.php:816
+msgid "Banner placement"
+msgstr "广告位置"
+
+#: options.php:817
+msgid "Where do you want the banner to appear?"
+msgstr "您希望广告出现在哪里？"
+
+#: options.php:827
+msgid "Frontpage"
+msgstr "首页"
+
+#: options.php:833
+msgid "Social"
+msgstr "社会化"
+
+#: options.php:837
+msgid "Facebook"
+msgstr "Facebook"
+
+#: options.php:838
+msgid "Your facebook link"
+msgstr "您的Facebook链接"
+
+#: options.php:844
+msgid "Twitter"
+msgstr "Twitter"
+
+#: options.php:845
+msgid "Your twitter link"
+msgstr "您的Twitter链接"
+
+#: options.php:851
+msgid "Google+"
+msgstr "Google+"
+
+#: options.php:852
+msgid "Your google+ link"
+msgstr "您的Google+链接"
+
+#: options.php:858
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: options.php:859
+msgid "Your LinkedIn link"
+msgstr "您的LinkedIn链接"
+
+#: options.php:865
+msgid "Youtube"
+msgstr "Youtube"
+
+#: options.php:866
+msgid "Your youtube link"
+msgstr "您的Youtube链接"
+
+#: options.php:872
+msgid "RSS"
+msgstr "RSS"
+
+#: options.php:873
+msgid "Your RSS feed"
+msgstr "您的RSS feed"
+
+#: options.php:879
+msgid "Flickr"
+msgstr "Flickr"
+
+#: options.php:880
+msgid "Your Flickr link"
+msgstr "您的Flickr链接"
+
+#: options.php:886
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: options.php:887
+msgid "Your vimeo link"
+msgstr "您的Vimeo链接"
+
+#: options.php:893
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: options.php:894
+msgid "Your pinterest link"
+msgstr "您的Pinterest链接"
+
+#: options.php:900
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: options.php:901
+msgid "Your dribbble link"
+msgstr "您的Dribbble链接"
+
+#: options.php:907
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: options.php:908
+msgid "Your tumblr link"
+msgstr "您的Tumblr链接"
+
+#: options.php:914
+msgid "Instagram"
+msgstr "Instagram"
+
+#: options.php:915
+msgid "Your instagram link"
+msgstr "您的instagram链接"
+
+#: options.php:921
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: options.php:922
+msgid "Your viadeo link"
+msgstr "您的Vimeo链接"
+
+#: options.php:928
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: options.php:932
+msgid "Add Custom CSS rules here"
+msgstr "添加自定义CSS规则"
+
+#: options.php:933
+msgid ""
+"Here you can overwrite specific css rules if you want to customize your "
+"theme a little. Write into this box just like you would do in a regular css "
+"file. Example: body{ color: #444; }"
+msgstr ""
+"如果您想要对主题的样式做一些细微的调整，您可以在这里重写特殊的css规则。只需要"
+"像正常的在css文件中那样写下您的css规则。 例如：body{ color: #444; }"
+
+#: searchform.php:4
+msgid "Search.."
+msgstr "搜索..."
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "归档"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "元"
+
+#: inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "出错了。"
+
+#: inc/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件安装启用成功 %1$s"
+
+#: inc/class-tgm-plugin-activation.php:517
+#: inc/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "返回仪表盘"
+
+#: inc/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "下面的插件成功启用: %s."
+
+#: inc/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "关闭此通知"
+
+#: inc/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "外部链接"
+
+#: inc/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "私有库"
+
+#: inc/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "预先打包的"
+
+#: inc/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "WordPress库"
+
+#: inc/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "必需的"
+
+#: inc/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "推荐"
+
+#: inc/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "没有安装"
+
+#: inc/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr "已安装，启用失败"
+
+#: inc/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"没有插件要安装和启用 <a href=\"%1$s\" title=\"返回仪表盘\">返回仪表盘</a>"
+
+#: inc/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "插件"
+
+#: inc/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "来源"
+
+#: inc/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "类型"
+
+#: inc/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "状态"
+
+#: inc/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "安装"
+
+#: inc/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "启用"
+
+#: inc/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr "下面的插件成功启用: %s."
+
+#: inc/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "安装包不可用。"
+
+#: inc/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "正在从 <span class=\"code\">%s</span>&#8230;下载安装包"
+
+#: inc/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "正在解压插件&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "正在安装插件&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "插件安装失败。"
+
+#: inc/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "插件安装成功。"
+
+#: inc/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "插件启用失败。"
+
+#: inc/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "已开始安装并启用，根据网络情况安装可能会持续一会，请耐心的等待一下。"
+
+#: inc/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 安装并启用成功。"
+
+#: inc/class-tgm-plugin-activation.php:1956
+#: inc/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "显示详细信息"
+
+#: inc/class-tgm-plugin-activation.php:1956
+#: inc/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "隐藏详细信息"
+
+#: inc/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "已完成所有安装并启用。"
+
+#: inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装并启用插件 %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "安装开始，根据网络情况安装可能会持续一会，请耐心的等待一下。"
+
+#: inc/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装 %1$s: <strong>%2$s</strong> 时遇到错误。"
+
+#: inc/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s 安装失败。"
+
+#: inc/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s 安装成功。"
+
+#: inc/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "所有安装已完成。"
+
+#: inc/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装插件 %1$s (%2$d/%3$d)"
+
+#: inc/meta-bottom.php:17
+msgid "Share story"
+msgstr "分享到"
+
+#: inc/meta-top.php:9
+msgid "View all posts in"
+msgstr "查看所有文章在"
+
+#: inc/recent-posts.php:7
+msgid "Things you might like"
+msgstr "您可能会喜欢"
+
+#: inc/related-posts.php:27
+msgid "You might also like"
+msgstr "您可能会喜欢"
+
+#: inc/mailchimp/subscribe.php:27
+msgid "No email address provided"
+msgstr "没有提供邮件地址"
+
+#: inc/mailchimp/subscribe.php:32
+msgid "Email address is invalid"
+msgstr "不合法的邮件地址"
+
+#: inc/post-format/content-audio.php:59 inc/post-format/content-gallery.php:43
+#: inc/post-format/content-image.php:49 inc/post-format/content-link.php:47
+#: inc/post-format/content-video.php:44 inc/post-format/content.php:50
+#: inc/post-format/single-audio.php:52 inc/post-format/single-gallery.php:39
+#: inc/post-format/single-image.php:35 inc/post-format/single-link.php:47
+#: inc/post-format/single-status.php:49 inc/post-format/single-video.php:43
+#: inc/post-format/single.php:33
+msgid "Pages:"
+msgstr "页面："
+
+#: inc/theme-options/options-framework.php:203
+msgid "Clear"
+msgstr "清除"
+
+#: inc/theme-options/options-framework.php:204
+msgid "Default"
+msgstr "默认"
+
+#: inc/theme-options/options-framework.php:205
+msgid "Select Color"
+msgstr "选择颜色"
+
+#: inc/theme-options/options-framework.php:250
+msgid "Save Options"
+msgstr "保存所有选项"
+
+#: inc/theme-options/options-framework.php:251
+msgid "Restore Defaults"
+msgstr "恢复默认设置"
+
+#: inc/theme-options/options-framework.php:251
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "点击OK重置。将丢失所有主题设置！"
+
+#: inc/theme-options/options-framework.php:283
+msgid "Default options restored."
+msgstr "已恢复到默认选项"
+
+#: inc/theme-options/options-framework.php:337
+msgid "Options saved."
+msgstr "选项已保存"
+
+#: inc/theme-options/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr "未选择文件"
+
+#: inc/theme-options/options-media-uploader.php:54
+#: inc/theme-options/options-media-uploader.php:111
+msgid "Upload"
+msgstr "上传"
+
+#: inc/theme-options/options-media-uploader.php:56
+#: inc/theme-options/options-media-uploader.php:112
+msgid "Remove"
+msgstr "移除"
+
+#: inc/theme-options/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "升级您的WordPress版本支持所有媒体。"
+
+#: inc/theme-options/options-media-uploader.php:83
+msgid "View File"
+msgstr "查看文件"
+
+#: inc/theme-options/options-sanitize.php:232
+msgid "No Repeat"
+msgstr "不重复"
+
+#: inc/theme-options/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr "水平重复"
+
+#: inc/theme-options/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr "垂直重复"
+
+#: inc/theme-options/options-sanitize.php:235
+msgid "Repeat All"
+msgstr "重复所有"
+
+#: inc/theme-options/options-sanitize.php:248
+msgid "Top Left"
+msgstr "左上"
+
+#: inc/theme-options/options-sanitize.php:249
+msgid "Top Center"
+msgstr "中上"
+
+#: inc/theme-options/options-sanitize.php:250
+msgid "Top Right"
+msgstr "右上"
+
+#: inc/theme-options/options-sanitize.php:251
+msgid "Middle Left"
+msgstr "左中"
+
+#: inc/theme-options/options-sanitize.php:252
+msgid "Middle Center"
+msgstr "中心"
+
+#: inc/theme-options/options-sanitize.php:253
+msgid "Middle Right"
+msgstr "右中"
+
+#: inc/theme-options/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr "左下"
+
+#: inc/theme-options/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr "中下"
+
+#: inc/theme-options/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr "右下"
+
+#: inc/theme-options/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr "正常滚动"
+
+#: inc/theme-options/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr "固定位置"
+
+#: inc/theme-options/options-sanitize.php:344
+msgid "Normal"
+msgstr "正常"
+
+#: inc/theme-options/options-sanitize.php:345
+msgid "Italic"
+msgstr "斜体"
+
+#: inc/theme-options/options-sanitize.php:346
+msgid "Bold"
+msgstr "粗体"
+
+#: inc/theme-options/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr "粗斜体"
+
+#: inc/widgets/bl_author.php:26 inc/widgets/bl_featured_post.php:56
+#: inc/widgets/bl_flickr2.php:120 inc/widgets/bl_html.php:56
+#: inc/widgets/bl_imagebox.php:26
+msgid "Title:"
+msgstr "标题："
+
+#: inc/widgets/bl_flickr2.php:17
+msgid "国内被封"
+msgstr ""
+
+#: inc/widgets/bl_flickr2.php:21
+msgid "Bluth Flickr"
+msgstr "Bluth Flickr"
+
+#: inc/widgets/bl_flickr2.php:125
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+#: inc/widgets/bl_flickr2.php:131
+msgid "Flickr Username:"
+msgstr "Flickr用户名"
+
+#: inc/widgets/bl_flickr2.php:136
+msgid "Photos Count:"
+msgstr "照片数量"
+
+#: inc/widgets/bl_html.php:75
+msgid "Automatically add paragraphs"
+msgstr "自动增加段落"
+
+#: inc/widgets/bl_instagram.php:132
+msgid "Followers"
+msgstr "关注者"
+
+#: inc/widgets/bl_instagram.php:136
+msgid "Following"
+msgstr "关注"
+
+#: inc/widgets/bl_instagram.php:140
+msgid "Images"
+msgstr "图片"
+
+#: inc/widgets/bl_newsletter.php:117
+msgid "Email address"
+msgstr "邮件地址"
+
+#: inc/widgets/bl_newsletter.php:118
+msgid "Subscribe!"
+msgstr "订阅"
+
+#: inc/widgets/bl_newsletter.php:123
+msgid "No email provided!"
+msgstr "未提供Email"
+
+#: inc/widgets/bl_newsletter.php:124
+msgid "Thank you for subscribing!"
+msgstr "感谢您的订阅，一封确认订阅邮件已发送到您的邮箱"
+
+#: inc/widgets/bl_tabs.php:140
+msgid "Comments"
+msgstr "评论"
+
+#: inc/widgets/bl_tabs.php:141
+msgid "Tags"
+msgstr "标签"
+
+#: inc/widgets/widgets.php:73
+msgid "Footer Widgets"
+msgstr "底部小工具"
+
+#: inc/widgets/widgets.php:75
+msgid "There are 4 slots available in the footer"
+msgstr "网站底部可以放四个组件"
+
+#~ msgid "Displays recent Flickr photos in a widget"
+#~ msgstr "在组件中显示最近的照片"
